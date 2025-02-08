@@ -10,6 +10,7 @@
 <a href="/home">Home</a>
 <a href="/about">about</a>
 <a href="/blog">blog</a>
+<a href="/contact">contact</a>
 <h1>halaman baout</h1>
 <h3>Masinis: {{ $nama }} </h3>
     
